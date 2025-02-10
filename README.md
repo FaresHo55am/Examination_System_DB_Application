@@ -5,6 +5,7 @@
 If you'd like to try out the GUI, please follow these steps:
 
 1. Update the GlobalVars.cs file
+
 a) Configure the Database Connection String
 Locate the following line and replace <YourServerName> with your actual server name to connect to the Examination_System database:
 
